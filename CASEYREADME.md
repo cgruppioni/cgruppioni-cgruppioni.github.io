@@ -1,0 +1,1 @@
+# escaping characters because of zsh shell of rake commands -> https://orville.thebennettproject.com/articles/working-with-octopress-2-and-zsh/
