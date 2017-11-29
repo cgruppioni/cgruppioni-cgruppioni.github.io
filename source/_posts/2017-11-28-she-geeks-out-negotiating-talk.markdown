@@ -34,7 +34,7 @@ Average all of that information together and that is what you will use.
 
 —
 
-For us, women in tech, or women who take their career seriously.. this is a great job market for us and we don’t need to beg for a job - we have options. The job of the HR rep  is to save the company money. No matter how nice they are, and they certainly can be great people, the bottom line for them is getting the best candidate for the lowest price.
+For us, women in tech.. this is a great job market for us and we don’t need to beg for a job - we have options. The job of the HR rep  is to save the company money. No matter how nice they are, and they certainly can be great people, the bottom line for them is getting the best candidate for the lowest price.
 
 Before you even enter the picture, the job has been budgeted for by the company. They know exactly the range they want to spend on you. They know how much people with your same title in the company make. At large companies they even have someone who’s entire job is to analyze compensation package, called a compensation analyst.
 
