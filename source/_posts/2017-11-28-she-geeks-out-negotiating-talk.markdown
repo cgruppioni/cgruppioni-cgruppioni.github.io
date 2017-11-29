@@ -6,13 +6,12 @@ comments: true
 categories:
 ---
 
-Hi my name is Casey Gruppioni and I want to talk about negotiating.
-
 It’s not a secret that besides gender bias and discrimination, lack of negotiating is one of the biggest factors that contribute to the pay gap.
 
 Negotiating can seem very intimidating. I thought I was good at it, but after taking a negotiating course this fall, getting advice from a pay equity consultant and talking to a lot of my friends I now know that I’m underpaid and could’ve asked for more from my current job.
 
 Luckily I’m on a contract and can re-negotiate in a year, but if I wasn’t my future income would be severely affected. The base salary never changes, so no matter how many annual raises and bonuses I could get, I would always be behind.
+
 ———
 
 Hired.com recently published a report written by their lead data scientist that’s comprised of data from 100,000 interview requests and job offers. They use the term expectation gap a lot, which is based off of the expected salary that users set. The average woman on their platform sets their salary to $14,000 less than the average man. The expectation gap is larger for roles that have a higher ratio of men to women ( so.. tech), and it also widens as years of experience increase.
