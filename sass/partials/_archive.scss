@@ -2,9 +2,6 @@
   #content > div { &, > article { padding-top: 0; } }
 }
 #blog-archives {
-    padding-bottom: 2em;
-    margin-bottom: 1.3em;
-    border-bottom: 1px solid $separator-line-color;
   article {
     padding: 1em 0 1em;
     position: relative;
@@ -27,6 +24,7 @@
     }
   }
   a.category, time {
+    @extend .sans;
     color: $text-color-light;
   }
   color: $text-color-light;
